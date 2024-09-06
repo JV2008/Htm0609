@@ -1,0 +1,46 @@
+.class_img{
+    opacity: 0,1;
+    background-image: url('../img/logo.png');
+    background-size: 100%;
+    color: #3A5DA0;
+    width: 100%;
+    height: 100%;
+    background-repeat: 3;
+    background-position: left;
+   
+
+}
+body{
+    margin: 5px;
+    border: 30px solid;
+   border-color: #3A5DAE;
+   padding: 10px solid;
+
+}
+.menu{
+    display: flex;
+    gap: 60px;
+    font-size: 10em;
+    font-style: oblique;
+    color: black;
+}
+.bord{
+    font-size: 8rem;
+    font-style: oblique;
+    color: 48629;
+    background-color: #afafaf;
+    padding: 5px;
+    text-align: left;
+}
+.box{
+    
+    display: flex;
+    justify-content:right;
+    align-items: center;
+    gap: 30px;
+
+}
+
+
+
+   
